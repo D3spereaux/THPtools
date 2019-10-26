@@ -11,6 +11,10 @@ Usage Guide:
 
 + git clone https://github.com/Despereaux222/THPtools.git
 
-+ cd THPTools && chmod +x AdditionTools.py && upzip wce_v1_41beta_universal.zip
++ cd THPTools && chmod +x AdditionTools.py
+
++ upzip wce_v1_41beta_universal.zip && unzip The Hacker Playbook 1.zip 
 
 + Run: ./AdditionTools.py to install requirement tools.
+
+ENJOY YOUR GAME!!!
